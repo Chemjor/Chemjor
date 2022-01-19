@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chemjor
 - 👀 I’m interested in exploring best solutions 
-- 🌱 I’m currently learning Java Manipulation
+- 🌱 I’m currently learning Java & Python Deep Exploration
 - 💞️ I’m looking to collaborate on App Solutions
 
 <!---
